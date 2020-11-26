@@ -1,0 +1,12 @@
+<resources>
+    <string name="error_message_number_greater_than">Invalid field. The number should not exceed %1$d</string>
+    <string name="error_message_number_less_than">Invalid field. The number should not be less than %1$d</string>
+    <string name="error_message_min_length">Invalid field. The minimum number of characters %1$d</string>
+    <string name="error_message_max_length">Invalid field. The maximum number of characters %1$d</string>
+    <string name="error_message_date_validation">Invalid data format</string>
+    <string name="error_message_email_validation">Invalid email format</string>
+    <string name="error_message_username_validation">Invalid username format</string>
+    <string name="error_message_url_validation">Invalid url format</string>
+    <string name="error_message_empty_validation">This field can\'t be empty</string>
+    <string name="error_message_regex_validation">Invalid input</string>
+</resources>

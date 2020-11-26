@@ -1,0 +1,3 @@
+include ':validator'
+include ':app'
+rootProject.name = "kotlin-databinding-validator"

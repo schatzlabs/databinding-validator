@@ -1,0 +1,10 @@
+<resources>
+	<string name="app_name">Kotlin Databinding Validator</string>
+	<string name="email_address">Enter Email Address</string>
+	<string name="submit">Submit</string>
+	<string name="url">Enter Url</string>
+	<string name="amount">Enter Amount</string>
+	<string name="bindingvalidator_email_com">bindingvalidator@email.com</string>
+	<string name="http_www_google_com">http://www.google.com</string>
+	<string name="_100">100</string>
+</resources>
