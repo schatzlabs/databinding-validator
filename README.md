@@ -1,7 +1,7 @@
 # Databinding Validator
 
 [![](https://jitpack.io/v/schatzlabs/databinding-validator.svg)](https://jitpack.io/#schatzlabs/databinding-validator)
-![Android CI](https://github.com/schatzlabs/databinding-validator/workflows/Android%20CI/badge.svg?branch=develop)
+![Android CI](https://github.com/schatzlabs/databinding-validator/workflows/Android%20CI/badge.svg)
 
 This is an Android databinding library for validating Input fields written in Kotlin.
 
