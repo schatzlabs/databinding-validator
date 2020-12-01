@@ -22,7 +22,7 @@ allprojects {
 
 ```sh
 dependencies {
-    implementation 'com.github.schatzlabs:databinding-validator:1.0.0-alpha01'
+    implementation 'com.github.schatzlabs:databinding-validator:1.0.0-alpha.1'
 }
 ```
 
